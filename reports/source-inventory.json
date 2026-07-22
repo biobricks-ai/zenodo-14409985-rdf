@@ -1,0 +1,17 @@
+{
+  "source_rows_all_seven_tables": 2183162,
+  "semantic_table_rows": 735026,
+  "train_fnn_rows": 7248,
+  "train_fnn_non_null_labels": 41794,
+  "test_tox21_rows": 8014,
+  "test_tox21_non_null_labels": 79573,
+  "predictions_comptox_rows": 719764,
+  "prediction_probabilities": 5036724,
+  "train_ae_identity_rows": 719997,
+  "comptox_identity_rows": 719997,
+  "test_ar_identity_rows": 4082,
+  "test_er_identity_rows": 4060,
+  "duplicate_note": "train_ae and comptox are the same three-column identity dataset (same upstream MD5 e5cf18d2c800e7a86757f4698e5c3ba8) and are not duplicated in RDF",
+  "license": "CC BY 4.0",
+  "source": "https://doi.org/10.5281/zenodo.14409985"
+}

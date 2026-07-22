@@ -1,0 +1,27 @@
+{
+  "bounded_run": true,
+  "converted_records": 9996,
+  "emitted_statements": 344770,
+  "excluded_rows": 4,
+  "explicit_exclusions": {
+    "duplicate_comptox_identity_table": 719997,
+    "identity_only_ar_holdout": 4082,
+    "identity_only_er_holdout": 4060,
+    "identity_only_train_ae": 719997
+  },
+  "identifier_row_coverage": 0.9996,
+  "identifier_rows": 9996,
+  "license": "CC BY 4.0",
+  "mapped_cell_coverage": 0.9155640083032784,
+  "mapped_nonempty_cells": 78950,
+  "model_predictions": 0,
+  "n_hexane_records": 1,
+  "record_count_coverage": 1.0,
+  "scan_coverage": 0.013604960912947297,
+  "scanned_rows": 10000,
+  "source_nonempty_cells": 86231,
+  "source_rows": 735026,
+  "source_tables": 7,
+  "tox21_test_labels": 27165,
+  "training_labels": 41789
+}

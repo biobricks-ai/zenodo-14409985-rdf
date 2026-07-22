@@ -1,0 +1,11 @@
+stages:
+  build:
+    cmd: uv run biobricks pull && uv run python stages/convert.py
+    deps:
+      - .bb/dependencies.txt
+      - stages/convert.py
+    outs:
+      - brick/zenodo-14409985-rdf.nt
+    metrics:
+      - reports/source-coverage.json:
+          cache: false

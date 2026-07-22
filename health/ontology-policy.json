@@ -1,0 +1,18 @@
+{
+  "approved_namespaces": [
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "http://www.w3.org/2000/01/rdf-schema#",
+    "http://www.w3.org/2002/07/owl#",
+    "http://www.w3.org/2004/02/skos/core#",
+    "http://www.w3.org/ns/prov#",
+    "http://purl.org/dc/terms/"
+  ],
+  "local_namespaces": ["https://biobricks.ai/zenodo-14409985-rdf/"],
+  "allowed_classes": [
+    "https://biobricks.ai/zenodo-14409985-rdf/BenchmarkLabel",
+    "https://biobricks.ai/zenodo-14409985-rdf/Tox21AssayLabel",
+    "https://biobricks.ai/zenodo-14409985-rdf/ModelPrediction"
+  ],
+  "allowed_predicates": [],
+  "min_score": 80
+}

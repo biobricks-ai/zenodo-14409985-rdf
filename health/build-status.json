@@ -1,0 +1,12 @@
+{
+  "status": "validated-bounded-build",
+  "source_license": "CC BY 4.0",
+  "source_rows": 2183162,
+  "semantic_values": 5158091,
+  "training_labels": 41794,
+  "tox21_test_labels": 79573,
+  "model_predictions": 5036724,
+  "identity_only_rows": 1448136,
+  "duplicate_identity_rows_suppressed": 719997,
+  "note": "Full conversion is the default; bounded validation does not imply full artifact publication. Identity-only tables are inventoried but do not become biological evidence."
+}

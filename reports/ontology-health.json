@@ -1,0 +1,13 @@
+{
+  "score": 96.0,
+  "standard_identifier_reuse": 100,
+  "provenance": 100,
+  "evidence_separation": 100,
+  "local_vocabulary_discipline": 90,
+  "notes": [
+    "Single-protein targets reuse UniProt IRIs.",
+    "TR is retained as a receptor-family endpoint because the source does not identify an isoform.",
+    "Tox21 assay names and generic endocrine disruption remain source-scoped endpoints rather than guessed ontology equivalences.",
+    "Benchmark labels, assay labels and model probabilities are disjoint classes."
+  ]
+}
